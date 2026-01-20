@@ -2,4 +2,4 @@
 
 <h3 align="center">Velocity Controllable Human Motion Diffusion Model</h3>
 
-Official Implementation of "Velocity Controllable Human Motion Diffusion Model".
+<h3 align="center">Official Implementation of "Velocity Controllable Human Motion Diffusion Model".</h3>
