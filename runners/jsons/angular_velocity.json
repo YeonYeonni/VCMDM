@@ -1,0 +1,9 @@
+{
+
+        "lengths": [60],
+        "text": ["a person walks forward"],
+        "angular_velocity": [
+                [0.4, 0.4, 0.4, 0.4, 0.0, 0.0, 0.0, 0.0]
+        ]
+
+}
